@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="views\FConnexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="views\FMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="views\FEtudiants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="views\FAppartements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="views\FAjouterAppartement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="views\FAjouterEtudiant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="views\FModifierEtudiant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="views\FModifierAppartement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="views\FLocataire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
